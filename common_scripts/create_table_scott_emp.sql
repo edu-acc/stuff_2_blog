@@ -1,3 +1,4 @@
+--PostgreSQL
 create table scott.emp (
 	empno int4 not null,
 	ename varchar(10) null,
