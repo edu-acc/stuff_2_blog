@@ -1,1 +1,1 @@
-Материалы для блога https://teletype.in/@velipre_xella
+Материалы для моего блога [Всякое об SQL и ETL](https://teletype.in/@velipre_xella)
